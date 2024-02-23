@@ -1,0 +1,34 @@
+body{
+    margin-left: 20px;
+}
+
+.chats{
+    height: 290px;
+    width: 400px;
+    background-color: rgb(240, 248, 255);
+    display: inline-block;
+    border: 1px solid rgba(0, 0, 0, 0.685);
+    border-radius: 20px;
+    padding-left: 5px;
+   
+}
+
+.msg{
+    background-color: blue;
+    color: white;
+    padding: 1px;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    padding-left: 5px;
+}
+
+a{
+    width: 120px;
+    height: 60px;
+    background-color: aqua;
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
